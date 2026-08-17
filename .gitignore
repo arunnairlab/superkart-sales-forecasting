@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+backend/superkart_model.joblib
+.DS_Store
